@@ -1,4 +1,4 @@
-## Hi, I'm Kornelia
+## 👋🏼 Hi, I'm Kornelia
 
 👩🏻‍🎓 3rd year student od Computer Science at Poznań University of Technology 
 
@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning DevOps
 
-## Technologies & tools
+## 💻 Technologies & tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
