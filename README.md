@@ -8,7 +8,9 @@ I am currently pursuing a Bachelor of Engineering degree in Computer Science at 
 
 🌱 I’m currently learning DevOps
 
+
 ✉️ Contact me
+
 Linkedin: [kornelia_balicka](https://www.linkedin.com/in/kornelia-balicka-a1940b291/)
 
 <!--
