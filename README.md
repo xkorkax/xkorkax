@@ -1,15 +1,15 @@
-## Hi, I'm Kornelia Balicka
+## Hi, I'm Kornelia
 
-I am currently pursuing a Bachelor of Engineering degree in Computer Science at Poznań University of Technology. 
+👩🏻‍🎓 3rd year student od Computer Science at Poznań University of Technology 
 
 👩🏽‍💻 AKAI member
 
-🔭 I’m currently working on mobile app in Flutter
+🔭 I’m currently developing a mobile app using Flutter and Dart
 
 🌱 I’m currently learning DevOps
 
 
-✉️ Contact me
+## ✉️ Contact me
 
 Linkedin: [kornelia_balicka](https://www.linkedin.com/in/kornelia-balicka-a1940b291/)
 
