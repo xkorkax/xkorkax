@@ -1,6 +1,6 @@
 ## 👋🏼 Hi, I'm Kornelia
 
-👩🏻‍🎓 3rd year student od Computer Science at Poznań University of Technology 
+👩🏻‍🎓 3rd year student of Computer Science at Poznań University of Technology 
 
 👩🏽‍💻 AKAI member
 
