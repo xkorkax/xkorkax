@@ -33,7 +33,7 @@
 
 ## ✉️ Contact me
 
-Linkedin: [kornelia_balicka](https://www.linkedin.com/in/kornelia-balicka-a1940b291/)
+Linkedin: [kornelia_balicka]((https://www.linkedin.com/in/korneliabalicka/))
 
 <!--
 **xkorkax/xkorkax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
