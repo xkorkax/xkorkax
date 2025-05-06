@@ -4,7 +4,7 @@
 
 👩🏽‍💻 AKAI member
 
-🔭 I’m currently developing a mobile app using Flutter and Dart
+🔭 I’m currently developing a mobile app using Flutter and Dart and a web app using React and Flask
 
 🌱 I’m currently learning DevOps
 
